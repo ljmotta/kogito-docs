@@ -20,3 +20,8 @@ asciidoc:
     cloud_events_sdk_url: https://github.com/cloudevents/sdk-java
     open_api_spec_url: https://spec.openapis.org/oas/v3.1.0.html
     quarkus_openapi_gen_url: https://github.com/quarkiverse/quarkus-openapi-generator
+    java_install: https://www.java.com/en/download/help/download_options.html
+    maven_install: https://maven.apache.org/install.html
+    docker_install: https://docs.docker.com/engine/install/
+    podman_install: https://docs.podman.io/en/latest/
+    kubectl_install: https://kubernetes.io/docs/tasks/tools/install-kubectl
