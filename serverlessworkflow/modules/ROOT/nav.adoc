@@ -12,8 +12,7 @@
 //** xref:core/defining-an-input-schema-for-workflows.adoc[Defining an input schema for your workflows]
 ** xref:core/custom-functions-support.adoc[Custom functions for your Serverless Workflow service]
 * Tooling
-** Workflow plugin for Knative CLI
-*** xref:tooling/kn-plugin-workflow/kn-plugin-workflow-overview.adoc[Overview]
+** xref:tooling/kn-plugin-workflow/kn-plugin-workflow-overview.adoc[Workflow plugin for Knative CLI]
 // ** xref:tooling/tooling.adoc[Tooling]
 * Service Orchestration
 ** xref:service-orchestration/orchestration-of-openapi-based-services.adoc[Orchestrating the OpenAPI services]
