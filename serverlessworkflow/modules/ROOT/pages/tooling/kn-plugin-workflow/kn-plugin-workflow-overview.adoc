@@ -16,7 +16,7 @@
 
 == Instalation
 
-You can download the latest binaries from the {kie_tools_releases_url}[Releases] page.
+You can download the latest binaries from the {kie_tools_releases_page_url}[Releases] page.
 
 There are two ways to run `kn workflow`:
 

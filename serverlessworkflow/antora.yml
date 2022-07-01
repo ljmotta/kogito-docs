@@ -6,11 +6,12 @@ nav:
 - "modules/ROOT/nav.adoc"
 asciidoc:
   attributes:
-    quarkus_version: '2.10.0.Final'
+    quarkus_version: '2.10.1.Final'
     java_min_version: 11+
     maven_min_version: 3.8.1
     graalvm_min_version: 22.0.0.2
     spec_version: 0.8
+    vscode_version: 1.46.0
     kogito_sw_examples_url: https://github.com/kiegroup/kogito-examples/tree/main/serverless-workflow-examples
     kogito_examples_url: https://github.com/kiegroup/kogito-examples.git
     quarkus_cli_url: https://quarkus.io/guides/cli-tooling
@@ -26,4 +27,4 @@ asciidoc:
     podman_install_url: https://docs.podman.io/en/latest/
     kubectl_install_url: https://kubernetes.io/docs/tasks/tools/install-kubectl
     kn_cli_install_url: https://github.com/knative/client/blob/main/docs/README.md#installing-kn
-    kie_tools_releases_url: https://github.com/kiegroup/kie-tools/releases
+    kie_tools_releases_page_url: https://github.com/kiegroup/kie-tools/releases
